@@ -11,7 +11,7 @@
 
 <br/>
 
-> *"O aprendizado é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."*
+> _"O aprendizado é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."_
 > — **Leonardo da Vinci**
 
 </div>
@@ -28,11 +28,11 @@ O objetivo é simples: documentar minha evolução, manter um histórico de apre
 
 ## 🎯 Objetivos
 
-- 📌 Consolidar conceitos teóricos através da prática
-- 🗂️ Manter um histórico organizado da evolução técnica
-- 🔄 Revisitar e refatorar código ao longo do tempo
-- 💡 Experimentar novas tecnologias com segurança
-- 🚀 Construir uma base sólida para o mercado de trabalho
+- Consolidar conceitos teóricos através da prática
+- Manter um histórico organizado da evolução técnica
+- Revisitar e refatorar código ao longo do tempo
+- Experimentar novas tecnologias com segurança
+- Construir uma base sólida para o mercado de trabalho
 
 ---
 
@@ -41,124 +41,128 @@ O objetivo é simples: documentar minha evolução, manter um histórico de apre
 ---
 
 ### 🟢 Base — Lógica de Programação e JavaScript
+
 > Fundamentos de lógica e sintaxe JavaScript
 
-| # | Curso | Status |
-|---|-------|--------|
-| 01 | JavaScript: aprendendo a programar | ✅ Concluído |
-| 02 | Praticando JavaScript: condicionais | ✅ Concluído |
-| 03 | Praticando JavaScript: laços de repetição | ✅ Concluído |
-| 04 | Praticando JavaScript: funções | ✅ Concluído |
-| 05 | Praticando JavaScript: arrays | ✅ Concluído |
-| 06 | Praticando JavaScript: objetos | ✅ Concluído |
+| #   | Curso                                     | Status       |
+| --- | ----------------------------------------- | ------------ |
+| 01  | JavaScript: aprendendo a programar        | ✅ Concluído |
+| 02  | Praticando JavaScript: condicionais       | ✅ Concluído |
+| 03  | Praticando JavaScript: laços de repetição | ✅ Concluído |
+| 04  | Praticando JavaScript: funções            | ✅ Concluído |
+| 05  | Praticando JavaScript: arrays             | ✅ Concluído |
+| 06  | Praticando JavaScript: objetos            | ✅ Concluído |
 
 ---
 
 ### 🔵 Nível 1 — Primeira API com Node.js
+
 > Do "hello API" ao CRUD completo
 
-| # | Curso | Status |
-|---|-------|--------|
-| 01 | JavaScript com Node.js: criando sua primeira biblioteca | 🔄 Em andamento |
-| 02 | Node.js: criando uma API Rest com Express e MongoDB | 🔵 Planejado |
-| 03 | Node.js: lidando com buscas, filtros, paginação e erros | 🔵 Planejado |
-| 04 | React: comece seu projeto full stack | 🔵 Planejado |
-| 05 | Node.js: continue seu projeto full stack com Express | 🔵 Planejado |
-| 06 | React e Node.js: consumindo APIs no projeto full stack | 🔵 Planejado |
-| 07 | Git e GitHub: compartilhando e colaborando em projetos | ✅ Concluído |
-| 08 | DevOps: construindo e gerindo containers com Docker | 🔵 Planejado |
-| 09 | ORM com Node.js: API com Sequelize e SQLite | 🔵 Planejado |
-| 10 | ORM com Node.js: avançando no Sequelize | 🔵 Planejado |
-| 11 | Swagger: documentando APIs REST com OpenAPI | 🔵 Planejado |
-| 12 | ESLint: padronizando código com regras personalizadas | 🔵 Planejado |
-| 13 | Node.js: testes unitários e de integração | 🔵 Planejado |
-| 14 | Node.js: implementando testes em uma API Rest | 🔵 Planejado |
-| 15 | Node.js: melhorando o fluxo de desenvolvimento | 🔵 Planejado |
-| 16 | Cloud: deploy de aplicações na AWS | 🔵 Planejado |
-| 17 | Node.js: criptografia e tokens JWT | 🔵 Planejado |
-| 18 | Node.js: API Rest com autenticação e permissões | 🔵 Planejado |
-| 19 | Node.js: Autenticação, Passport e OAuth 2.0 | 🔵 Planejado |
-| 20 | WebSockets: comunicações em tempo real com Socket.IO | 🔵 Planejado |
-| 21 | WebSockets: autenticação e Socket.IO avançado | 🔵 Planejado |
-| 22 | Git e GitHub: dominando controle de versão | 🔵 Planejado |
-| 23 | DevOps: trabalhando com repositórios no GitHub | 🔵 Planejado |
-| 24 | JavaScript: programação Orientada a Objetos | 🔵 Planejado |
-| 25 | TypeScript: construção de uma API com tipagem segura | 🔵 Planejado |
-| 26 | SOLID com TypeScript: boas práticas em OO | 🔵 Planejado |
-| 27 | Padrões de projeto com TypeScript: arquitetura limpa | 🔵 Planejado |
-| 28 | Desenvolvimento Seguro: erros e logs em aplicação | 🔵 Planejado |
-| 29 | TypeScript: validações e tratamento de erros | 🔵 Planejado |
-| 30 | Nest.js: persistindo dados com TypeORM e PostgreSQL | 🔵 Planejado |
-| 31 | Nest.js: migrações, relacionamentos ORM e erros | 🔵 Planejado |
-| 32 | Nest.js: Redis, JWT e logging | 🔵 Planejado |
-| 🏁 | **Checkpoint Nível 1** | 🔵 Planejado |
+| #   | Curso                                                   | Status          |
+| --- | ------------------------------------------------------- | --------------- |
+| 01  | JavaScript com Node.js: criando sua primeira biblioteca | 🔄 Em andamento |
+| 02  | Node.js: criando uma API Rest com Express e MongoDB     | 🔵 Planejado    |
+| 03  | Node.js: lidando com buscas, filtros, paginação e erros | 🔵 Planejado    |
+| 04  | React: comece seu projeto full stack                    | 🔵 Planejado    |
+| 05  | Node.js: continue seu projeto full stack com Express    | 🔵 Planejado    |
+| 06  | React e Node.js: consumindo APIs no projeto full stack  | 🔵 Planejado    |
+| 07  | Git e GitHub: compartilhando e colaborando em projetos  | ✅ Concluído    |
+| 08  | DevOps: construindo e gerindo containers com Docker     | 🔵 Planejado    |
+| 09  | ORM com Node.js: API com Sequelize e SQLite             | 🔵 Planejado    |
+| 10  | ORM com Node.js: avançando no Sequelize                 | 🔵 Planejado    |
+| 11  | Swagger: documentando APIs REST com OpenAPI             | 🔵 Planejado    |
+| 12  | ESLint: padronizando código com regras personalizadas   | 🔵 Planejado    |
+| 13  | Node.js: testes unitários e de integração               | 🔵 Planejado    |
+| 14  | Node.js: implementando testes em uma API Rest           | 🔵 Planejado    |
+| 15  | Node.js: melhorando o fluxo de desenvolvimento          | 🔵 Planejado    |
+| 16  | Cloud: deploy de aplicações na AWS                      | 🔵 Planejado    |
+| 17  | Node.js: criptografia e tokens JWT                      | 🔵 Planejado    |
+| 18  | Node.js: API Rest com autenticação e permissões         | 🔵 Planejado    |
+| 19  | Node.js: Autenticação, Passport e OAuth 2.0             | 🔵 Planejado    |
+| 20  | WebSockets: comunicações em tempo real com Socket.IO    | 🔵 Planejado    |
+| 21  | WebSockets: autenticação e Socket.IO avançado           | 🔵 Planejado    |
+| 22  | Git e GitHub: dominando controle de versão              | 🔵 Planejado    |
+| 23  | DevOps: trabalhando com repositórios no GitHub          | 🔵 Planejado    |
+| 24  | JavaScript: programação Orientada a Objetos             | 🔵 Planejado    |
+| 25  | TypeScript: construção de uma API com tipagem segura    | 🔵 Planejado    |
+| 26  | SOLID com TypeScript: boas práticas em OO               | 🔵 Planejado    |
+| 27  | Padrões de projeto com TypeScript: arquitetura limpa    | 🔵 Planejado    |
+| 28  | Desenvolvimento Seguro: erros e logs em aplicação       | 🔵 Planejado    |
+| 29  | TypeScript: validações e tratamento de erros            | 🔵 Planejado    |
+| 30  | Nest.js: persistindo dados com TypeORM e PostgreSQL     | 🔵 Planejado    |
+| 31  | Nest.js: migrações, relacionamentos ORM e erros         | 🔵 Planejado    |
+| 32  | Nest.js: Redis, JWT e logging                           | 🔵 Planejado    |
+| 🏁  | **Checkpoint Nível 1**                                  | 🔵 Planejado    |
 
 ---
 
 ### 🟣 Nível 2 — Arquitetura, Qualidade e Operabilidade
+
 > De "funciona" para "escalável e confiável"
 
-| # | Curso | Status |
-|---|-------|--------|
-| 01 | Scripting: automatizando tarefas com Bash e Docker | 🔵 Planejado |
-| 02 | Linux: criando script de monitoramento de sistema | 🔵 Planejado |
-| 03 | DevOps: explorando Linux CLI | 🔵 Planejado |
-| 04 | JavaScript I: algoritmos de ordenação | 🔵 Planejado |
-| 05 | Algoritmos com JavaScript II: busca e ordenação | 🔵 Planejado |
-| 06 | Node.js: filas, pilhas e estruturas de dados | 🔵 Planejado |
-| 07 | PostgreSQL: comandos DML e DDL | 🔵 Planejado |
-| 08 | PostgreSQL: administração e otimização | 🔵 Planejado |
-| 09 | SQLite: instruções SQL | 🔵 Planejado |
-| 10 | SQLite: consultas SQL | 🔵 Planejado |
-| 11 | SQL: Joins, Views e transações | 🔵 Planejado |
-| 12 | SQLite: análise de dados com SQL | 🔵 Planejado |
-| 13 | MongoDB: banco de dados NoSQL | 🔵 Planejado |
-| 14 | MongoDB: modelagem de dados | 🔵 Planejado |
-| 15 | Desenvolvimento Seguro: estratégias de segurança | 🔵 Planejado |
-| 16 | Node.js: streams e processamento de arquivos | 🔵 Planejado |
-| 17 | Node.js: gerenciando threads e processos | 🔵 Planejado |
-| 18 | Node.js: testando APIs REST e scripts assíncronos | 🔵 Planejado |
-| 19 | Node.js: clean code, arquitetura limpa e boas práticas | 🔵 Planejado |
-| 20 | DDD: fundamentos do design orientado a domínio | 🔵 Planejado |
-| 21 | DDD: modelagem estratégica de sistemas | 🔵 Planejado |
-| 22 | DDD: aplicando padrões táticos | 🔵 Planejado |
-| 23 | Node.js: arquitetura de monolito modular | 🔵 Planejado |
-| 24 | Node.js: migração de monolito para microsserviços | 🔵 Planejado |
-| 25 | Node.js: aplicações serverless na nuvem | 🔵 Planejado |
-| 26 | Node.js: mensageria e arquitetura orientada a eventos | 🔵 Planejado |
-| 27 | Modelagem de ameaças: identificando riscos | 🔵 Planejado |
-| 28 | Desenvolvimento Seguro: Secret Scanning e SAST | 🔵 Planejado |
-| 29 | Desenvolvimento Seguro: DAST e SCA | 🔵 Planejado |
-| 🏁 | **Checkpoint Nível 2** | 🔵 Planejado |
+| #   | Curso                                                  | Status       |
+| --- | ------------------------------------------------------ | ------------ |
+| 01  | Scripting: automatizando tarefas com Bash e Docker     | 🔵 Planejado |
+| 02  | Linux: criando script de monitoramento de sistema      | 🔵 Planejado |
+| 03  | DevOps: explorando Linux CLI                           | 🔵 Planejado |
+| 04  | JavaScript I: algoritmos de ordenação                  | 🔵 Planejado |
+| 05  | Algoritmos com JavaScript II: busca e ordenação        | 🔵 Planejado |
+| 06  | Node.js: filas, pilhas e estruturas de dados           | 🔵 Planejado |
+| 07  | PostgreSQL: comandos DML e DDL                         | 🔵 Planejado |
+| 08  | PostgreSQL: administração e otimização                 | 🔵 Planejado |
+| 09  | SQLite: instruções SQL                                 | 🔵 Planejado |
+| 10  | SQLite: consultas SQL                                  | 🔵 Planejado |
+| 11  | SQL: Joins, Views e transações                         | 🔵 Planejado |
+| 12  | SQLite: análise de dados com SQL                       | 🔵 Planejado |
+| 13  | MongoDB: banco de dados NoSQL                          | 🔵 Planejado |
+| 14  | MongoDB: modelagem de dados                            | 🔵 Planejado |
+| 15  | Desenvolvimento Seguro: estratégias de segurança       | 🔵 Planejado |
+| 16  | Node.js: streams e processamento de arquivos           | 🔵 Planejado |
+| 17  | Node.js: gerenciando threads e processos               | 🔵 Planejado |
+| 18  | Node.js: testando APIs REST e scripts assíncronos      | 🔵 Planejado |
+| 19  | Node.js: clean code, arquitetura limpa e boas práticas | 🔵 Planejado |
+| 20  | DDD: fundamentos do design orientado a domínio         | 🔵 Planejado |
+| 21  | DDD: modelagem estratégica de sistemas                 | 🔵 Planejado |
+| 22  | DDD: aplicando padrões táticos                         | 🔵 Planejado |
+| 23  | Node.js: arquitetura de monolito modular               | 🔵 Planejado |
+| 24  | Node.js: migração de monolito para microsserviços      | 🔵 Planejado |
+| 25  | Node.js: aplicações serverless na nuvem                | 🔵 Planejado |
+| 26  | Node.js: mensageria e arquitetura orientada a eventos  | 🔵 Planejado |
+| 27  | Modelagem de ameaças: identificando riscos             | 🔵 Planejado |
+| 28  | Desenvolvimento Seguro: Secret Scanning e SAST         | 🔵 Planejado |
+| 29  | Desenvolvimento Seguro: DAST e SCA                     | 🔵 Planejado |
+| 🏁  | **Checkpoint Nível 2**                                 | 🔵 Planejado |
 
 ---
 
 ### 🟠 Nível 3 — Escala, Cloud e Automação
+
 > Do serviço robusto ao serviço resiliente em produção
 
-| # | Curso | Status |
-|---|-------|--------|
-| 01 | Amazon EC2: alta disponibilidade e escalabilidade | 🔵 Planejado |
-| 02 | Amazon VPC: configurando redes na AWS | 🔵 Planejado |
-| 03 | AWS: entendendo e controlando custos | 🔵 Planejado |
-| 04 | Amazon ECS: gerenciando Docker na AWS | 🔵 Planejado |
-| 05 | Banco de dados na AWS: RDS e DynamoDB | 🔵 Planejado |
-| 06 | Amazon EKS: aplicações conteinerizadas com Kubernetes | 🔵 Planejado |
-| 07 | Podman: implantando aplicações em containers | 🔵 Planejado |
-| 08 | GraphQL: APIs baseadas em esquemas | 🔵 Planejado |
-| 09 | Node.js: serviços RPC escaláveis | 🔵 Planejado |
-| 10 | IaC: Ansible e Terraform na AWS | 🔵 Planejado |
-| 11 | IaC: separando ambientes com Ansible e Terraform | 🔵 Planejado |
-| 12 | IaC: infraestrutura elástica na AWS | 🔵 Planejado |
-| 13 | IaC: Docker e Elastic Beanstalk na AWS | 🔵 Planejado |
-| 14 | IaC: Terraform, Docker e ECS | 🔵 Planejado |
-| 15 | IaC: Terraform e Kubernetes | 🔵 Planejado |
-| 16 | CI: pipelines e testes com GitHub Actions | 🔵 Planejado |
-| 17 | CI: pipeline Docker no GitHub Actions | 🔵 Planejado |
-| 18 | CI: entrega e implementação contínua na EC2 | 🔵 Planejado |
-| 19 | CI: automatizando deploy no Amazon ECS | 🔵 Planejado |
-| 20 | CI: automatizando entrega no Kubernetes | 🔵 Planejado |
-| 🏁 | **Checkpoint Nível 3** | 🔵 Planejado |
+| #   | Curso                                                 | Status       |
+| --- | ----------------------------------------------------- | ------------ |
+| 01  | Amazon EC2: alta disponibilidade e escalabilidade     | 🔵 Planejado |
+| 02  | Amazon VPC: configurando redes na AWS                 | 🔵 Planejado |
+| 03  | AWS: entendendo e controlando custos                  | 🔵 Planejado |
+| 04  | Amazon ECS: gerenciando Docker na AWS                 | 🔵 Planejado |
+| 05  | Banco de dados na AWS: RDS e DynamoDB                 | 🔵 Planejado |
+| 06  | Amazon EKS: aplicações conteinerizadas com Kubernetes | 🔵 Planejado |
+| 07  | Podman: implantando aplicações em containers          | 🔵 Planejado |
+| 08  | GraphQL: APIs baseadas em esquemas                    | 🔵 Planejado |
+| 09  | Node.js: serviços RPC escaláveis                      | 🔵 Planejado |
+| 10  | IaC: Ansible e Terraform na AWS                       | 🔵 Planejado |
+| 11  | IaC: separando ambientes com Ansible e Terraform      | 🔵 Planejado |
+| 12  | IaC: infraestrutura elástica na AWS                   | 🔵 Planejado |
+| 13  | IaC: Docker e Elastic Beanstalk na AWS                | 🔵 Planejado |
+| 14  | IaC: Terraform, Docker e ECS                          | 🔵 Planejado |
+| 15  | IaC: Terraform e Kubernetes                           | 🔵 Planejado |
+| 16  | CI: pipelines e testes com GitHub Actions             | 🔵 Planejado |
+| 17  | CI: pipeline Docker no GitHub Actions                 | 🔵 Planejado |
+| 18  | CI: entrega e implementação contínua na EC2           | 🔵 Planejado |
+| 19  | CI: automatizando deploy no Amazon ECS                | 🔵 Planejado |
+| 20  | CI: automatizando entrega no Kubernetes               | 🔵 Planejado |
+| 🏁  | **Checkpoint Nível 3**                                | 🔵 Planejado |
 
 ---
 
@@ -185,13 +189,13 @@ O objetivo é simples: documentar minha evolução, manter um histórico de apre
 
 ## 📈 Progresso Geral
 
-| Etapa | Cursos | Concluídos | Status |
-|-------|--------|------------|--------|
-| 🟢 Base — Lógica e JavaScript | 6 | 6 | ✅ Concluída |
-| 🔵 Nível 1 — Primeira API Node.js | 33 | 2 | 🔄 Em andamento |
-| 🟣 Nível 2 — Arquitetura e Qualidade | 30 | 0 | 🔵 Planejado |
-| 🟠 Nível 3 — Escala, Cloud e Automação | 21 | 0 | 🔵 Planejado |
-| **Total** | **90** | **8** | **~9%** |
+| Etapa                                  | Cursos | Concluídos | Status          |
+| -------------------------------------- | ------ | ---------- | --------------- |
+| 🟢 Base — Lógica e JavaScript          | 6      | 6          | ✅ Concluída    |
+| 🔵 Nível 1 — Primeira API Node.js      | 33     | 2          | 🔄 Em andamento |
+| 🟣 Nível 2 — Arquitetura e Qualidade   | 30     | 0          | 🔵 Planejado    |
+| 🟠 Nível 3 — Escala, Cloud e Automação | 21     | 0          | 🔵 Planejado    |
+| **Total**                              | **90** | **8**      | **~9%**         |
 
 ---
 
@@ -230,6 +234,6 @@ O objetivo é simples: documentar minha evolução, manter um histórico de apre
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
 
-<sub>Feito com 💙 por <strong>Fernando Dias</strong> — Estudante de Engenharia de Software</sub>
+<sub>Feito por <strong>Fernando Dias</strong> — Estudante de Engenharia de Software</sub>
 
 </div>
