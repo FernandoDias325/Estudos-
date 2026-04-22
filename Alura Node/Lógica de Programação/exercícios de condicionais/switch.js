@@ -2,7 +2,7 @@
 // Exercícios com switch
 // =============================
 
-// 7. Dia da semana
+// 1. Dia da semana
 
 // Um sistema recebe um número de 1 a 7 e precisa informar o dia correspondente.
 // 1 → "Domingo"
@@ -44,7 +44,7 @@ switch (dia) {
     console.log("Dia inválido");
 }
 
-// 8. Status de pedido
+// 2. Status de pedido
 
 // Um e-commerce precisa informar o status do pedido.
 // Valores:
@@ -71,7 +71,7 @@ switch (status) {
     console.log("Status inválido");
 }
 
-// 9. Tipo de usuário
+// 3. Tipo de usuário
 
 // Um sistema possui diferentes níveis de acesso.
 // Tipos:
@@ -98,7 +98,7 @@ switch (acesso) {
     console.log("Tipos inválidos");
 }
 
-// 10. Nível de bateria
+// 4. Nível de bateria
 
 // Um dispositivo informa o nível da bateria em categorias.
 // Valores possíveis:
