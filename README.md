@@ -59,41 +59,41 @@ O objetivo é simples: documentar minha evolução, manter um histórico de apre
 
 > Do "hello API" ao CRUD completo
 
-| #   | Curso                                                   | Status          |
-| --- | ------------------------------------------------------- | --------------- |
-| 01  | JavaScript com Node.js: criando sua primeira biblioteca | 🔄 Em andamento |
-| 02  | Node.js: criando uma API Rest com Express e MongoDB     | 🔵 Planejado    |
-| 03  | Node.js: lidando com buscas, filtros, paginação e erros | 🔵 Planejado    |
-| 04  | React: comece seu projeto full stack                    | 🔵 Planejado    |
-| 05  | Node.js: continue seu projeto full stack com Express    | 🔵 Planejado    |
-| 06  | React e Node.js: consumindo APIs no projeto full stack  | 🔵 Planejado    |
-| 07  | Git e GitHub: compartilhando e colaborando em projetos  | ✅ Concluído    |
-| 08  | DevOps: construindo e gerindo containers com Docker     | 🔵 Planejado    |
-| 09  | ORM com Node.js: API com Sequelize e SQLite             | 🔵 Planejado    |
-| 10  | ORM com Node.js: avançando no Sequelize                 | 🔵 Planejado    |
-| 11  | Swagger: documentando APIs REST com OpenAPI             | 🔵 Planejado    |
-| 12  | ESLint: padronizando código com regras personalizadas   | 🔵 Planejado    |
-| 13  | Node.js: testes unitários e de integração               | 🔵 Planejado    |
-| 14  | Node.js: implementando testes em uma API Rest           | 🔵 Planejado    |
-| 15  | Node.js: melhorando o fluxo de desenvolvimento          | 🔵 Planejado    |
-| 16  | Cloud: deploy de aplicações na AWS                      | 🔵 Planejado    |
-| 17  | Node.js: criptografia e tokens JWT                      | 🔵 Planejado    |
-| 18  | Node.js: API Rest com autenticação e permissões         | 🔵 Planejado    |
-| 19  | Node.js: Autenticação, Passport e OAuth 2.0             | 🔵 Planejado    |
-| 20  | WebSockets: comunicações em tempo real com Socket.IO    | 🔵 Planejado    |
-| 21  | WebSockets: autenticação e Socket.IO avançado           | 🔵 Planejado    |
-| 22  | Git e GitHub: dominando controle de versão              | 🔵 Planejado    |
-| 23  | DevOps: trabalhando com repositórios no GitHub          | 🔵 Planejado    |
-| 24  | JavaScript: programação Orientada a Objetos             | 🔵 Planejado    |
-| 25  | TypeScript: construção de uma API com tipagem segura    | 🔵 Planejado    |
-| 26  | SOLID com TypeScript: boas práticas em OO               | 🔵 Planejado    |
-| 27  | Padrões de projeto com TypeScript: arquitetura limpa    | 🔵 Planejado    |
-| 28  | Desenvolvimento Seguro: erros e logs em aplicação       | 🔵 Planejado    |
-| 29  | TypeScript: validações e tratamento de erros            | 🔵 Planejado    |
-| 30  | Nest.js: persistindo dados com TypeORM e PostgreSQL     | 🔵 Planejado    |
-| 31  | Nest.js: migrações, relacionamentos ORM e erros         | 🔵 Planejado    |
-| 32  | Nest.js: Redis, JWT e logging                           | 🔵 Planejado    |
-| 🏁  | **Checkpoint Nível 1**                                  | 🔵 Planejado    |
+| #   | Curso                                                   | Status       |
+| --- | ------------------------------------------------------- | ------------ |
+| 01  | JavaScript com Node.js: criando sua primeira biblioteca | ✅ Concluído |
+| 02  | Node.js: criando uma API Rest com Express e MongoDB     | 🔵 Planejado |
+| 03  | Node.js: lidando com buscas, filtros, paginação e erros | 🔵 Planejado |
+| 04  | React: comece seu projeto full stack                    | 🔵 Planejado |
+| 05  | Node.js: continue seu projeto full stack com Express    | 🔵 Planejado |
+| 06  | React e Node.js: consumindo APIs no projeto full stack  | 🔵 Planejado |
+| 07  | Git e GitHub: compartilhando e colaborando em projetos  | ✅ Concluído |
+| 08  | DevOps: construindo e gerindo containers com Docker     | 🔵 Planejado |
+| 09  | ORM com Node.js: API com Sequelize e SQLite             | 🔵 Planejado |
+| 10  | ORM com Node.js: avançando no Sequelize                 | 🔵 Planejado |
+| 11  | Swagger: documentando APIs REST com OpenAPI             | 🔵 Planejado |
+| 12  | ESLint: padronizando código com regras personalizadas   | 🔵 Planejado |
+| 13  | Node.js: testes unitários e de integração               | 🔵 Planejado |
+| 14  | Node.js: implementando testes em uma API Rest           | 🔵 Planejado |
+| 15  | Node.js: melhorando o fluxo de desenvolvimento          | 🔵 Planejado |
+| 16  | Cloud: deploy de aplicações na AWS                      | 🔵 Planejado |
+| 17  | Node.js: criptografia e tokens JWT                      | 🔵 Planejado |
+| 18  | Node.js: API Rest com autenticação e permissões         | 🔵 Planejado |
+| 19  | Node.js: Autenticação, Passport e OAuth 2.0             | 🔵 Planejado |
+| 20  | WebSockets: comunicações em tempo real com Socket.IO    | 🔵 Planejado |
+| 21  | WebSockets: autenticação e Socket.IO avançado           | 🔵 Planejado |
+| 22  | Git e GitHub: dominando controle de versão              | 🔵 Planejado |
+| 23  | DevOps: trabalhando com repositórios no GitHub          | 🔵 Planejado |
+| 24  | JavaScript: programação Orientada a Objetos             | 🔵 Planejado |
+| 25  | TypeScript: construção de uma API com tipagem segura    | 🔵 Planejado |
+| 26  | SOLID com TypeScript: boas práticas em OO               | 🔵 Planejado |
+| 27  | Padrões de projeto com TypeScript: arquitetura limpa    | 🔵 Planejado |
+| 28  | Desenvolvimento Seguro: erros e logs em aplicação       | 🔵 Planejado |
+| 29  | TypeScript: validações e tratamento de erros            | 🔵 Planejado |
+| 30  | Nest.js: persistindo dados com TypeORM e PostgreSQL     | 🔵 Planejado |
+| 31  | Nest.js: migrações, relacionamentos ORM e erros         | 🔵 Planejado |
+| 32  | Nest.js: Redis, JWT e logging                           | 🔵 Planejado |
+| 🏁  | **Checkpoint Nível 1**                                  | 🔵 Planejado |
 
 ---
 
@@ -192,10 +192,10 @@ O objetivo é simples: documentar minha evolução, manter um histórico de apre
 | Etapa                                  | Cursos | Concluídos | Status          |
 | -------------------------------------- | ------ | ---------- | --------------- |
 | 🟢 Base — Lógica e JavaScript          | 6      | 6          | ✅ Concluída    |
-| 🔵 Nível 1 — Primeira API Node.js      | 33     | 2          | 🔄 Em andamento |
+| 🔵 Nível 1 — Primeira API Node.js      | 33     | 3          | 🔄 Em andamento |
 | 🟣 Nível 2 — Arquitetura e Qualidade   | 30     | 0          | 🔵 Planejado    |
 | 🟠 Nível 3 — Escala, Cloud e Automação | 21     | 0          | 🔵 Planejado    |
-| **Total**                              | **90** | **8**      | **~9%**         |
+| **Total**                              | **90** | **9**      | **~10%**        |
 
 ---
 
@@ -207,26 +207,6 @@ O objetivo é simples: documentar minha evolução, manter um histórico de apre
 - Refatorações e melhorias são esperadas ao longo do tempo
 - Alguns exercícios podem conter erros intencionais para fins de estudo e correção
 - Sugestões e feedbacks são muito bem-vindos!
-
----
-
-## 📬 Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/fernandolourenço">
-  <img src="https://img.shields.io/badge/LinkedIn-Fernando_Dias-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/FernandoDias325">
-  <img src="https://img.shields.io/badge/GitHub-@FernandoDias325-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://cursos.alura.com.br/user/fernandodias3250">
-  <img src="https://img.shields.io/badge/Alura-fernandodias3250-00C4CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
