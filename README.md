@@ -62,7 +62,7 @@ O objetivo é simples: documentar minha evolução, manter um histórico de apre
 | #   | Curso                                                   | Status       |
 | --- | ------------------------------------------------------- | ------------ |
 | 01  | JavaScript com Node.js: criando sua primeira biblioteca | ✅ Concluído |
-| 02  | Node.js: criando uma API Rest com Express e MongoDB     | 🔵 Planejado |
+| 02  | Node.js: criando uma API Rest com Express e MongoDB     | 🔄 Em andamento |
 | 03  | Node.js: lidando com buscas, filtros, paginação e erros | 🔵 Planejado |
 | 04  | React: comece seu projeto full stack                    | 🔵 Planejado |
 | 05  | Node.js: continue seu projeto full stack com Express    | 🔵 Planejado |
